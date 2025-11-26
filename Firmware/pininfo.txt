@@ -1,4 +1,5 @@
 right side:
+BTPin (P0.02_A0_D0)
 4 rows, 6 columns. starting at top left
 row 1 (P1.15_D10): Y,U,I,O,P,backspace
 row 2 (P1.14_D9): H,J,K,L,;,enter

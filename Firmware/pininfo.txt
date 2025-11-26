@@ -1,0 +1,12 @@
+right side:
+4 rows, 6 columns. starting at top left
+row 1 (P1.15_D10): Y,U,I,O,P,backspace
+row 2 (P1.14_D9): H,J,K,L,;,enter
+row 3 (P1.13_D8): N,M1,comma,period,/,alt
+row 4 (P1.12_D7): space, shift, control
+col 1 (P0.03_A1_D1)
+col 2 (P0.28_A2_D2)
+col 3 (P0.29_A3_D3)
+col 4 (P0.04_A4_D4)
+col 5 (P0.05_A5_D5)
+col 6 (P1.11_D6)

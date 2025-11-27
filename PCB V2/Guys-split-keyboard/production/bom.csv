@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1_2, D1, D10_2, D10, D11_2, D11, D12_2, D12, D13_2, D13, D14_2, D14, D15_2, D15, D16_2, D16, D17_2, D17, D18_2, D18, D19_2, D19, D2_2, D2, D20_2, D20, D21_2, D21, D3_2, D3, D4_2, D4, D5_2, D5, D6_2, D6, D7_2, D7, D8_2, D8, D9_2, D9",D_DO-35_SOD27_P7.62mm_Horizontal,42,D,
+"R1_2, R1, R2_2, R2",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,4,R,
+"SW1_2, SW1, SW10_2, SW10, SW11_2, SW11, SW12_2, SW12, SW13_2, SW13, SW14_2, SW14, SW15_2, SW15, SW16_2, SW16, SW17_2, SW17, SW18_2, SW18, SW19_2, SW19, SW2_2, SW2, SW20_2, SW20, SW21_2, SW21, SW3_2, SW3, SW4_2, SW4, SW5_2, SW5, SW6_2, SW6, SW7_2, SW7, SW9_2, SW9",Gateron-KS33-Solderable-1U,40,SW_Push,
+"SW8_2, SW8",Gateron-KS33-Solderable-2U,2,SW_Push,
+"TP1_2, TP1",TestPoint_Pad_D2.0mm,2,BAT,
+"TP2_2, TP2",TestPoint_Pad_D2.0mm,2,GND,
+"U1_2, U1",modified-XIAO-nRF52840-SMD,2,XIAO-nRF52840-SMD,

@@ -3088,7 +3088,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "21d3b51f-4a9e-4244-bc26-9dea0d97da70")
+			(uuid "014cafb1-12aa-420d-acff-39e8d9852a3a")
 		)
 		(fp_circle
 			(center 0 0)
@@ -3099,7 +3099,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "e174ccce-b3c5-4cde-bbfc-9064adbac586")
+			(uuid "5d44c47a-8ceb-4641-8dd7-112575232639")
 		)
 		(fp_line
 			(start -1.9 -0.3)
@@ -3109,7 +3109,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "047d46b9-07cc-46f8-9f54-1ac337953791")
+			(uuid "aa9de841-5b8e-4ab4-a33b-ab4bacc08ca3")
 		)
 		(fp_line
 			(start -1.9 0.3)
@@ -3119,7 +3119,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c1f6232f-0db3-4082-85d0-59624f953c98")
+			(uuid "c3bd3ab3-b705-456c-96d3-81b1cd31f387")
 		)
 		(fp_line
 			(start 1.9 -0.3)
@@ -3129,7 +3129,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7c12b128-bc79-43ce-bc68-1125e973ee59")
+			(uuid "cf842ff0-27f9-478e-9baf-6d5940a103b6")
 		)
 		(fp_line
 			(start 1.9 0.3)
@@ -3139,7 +3139,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "acd15020-f894-4749-8530-4645c53ed254")
+			(uuid "fc7f1019-f46c-41ee-9427-9b271fb866b0")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.5 3.5 0)
@@ -3154,8 +3154,8 @@
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
-			(size 4.8 4.8)
-			(drill 2.8)
+			(size 5.2 5.2)
+			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(uuid "45768184-60b9-4ee8-a1d7-981887c764cd")
@@ -5329,7 +5329,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "14e1e33f-ad52-4117-8277-57e98386bdfe")
+			(uuid "43def893-0f88-49d7-85a3-1e43b03d6791")
 		)
 		(fp_circle
 			(center 0 0)
@@ -5340,7 +5340,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "af958523-8815-45d3-9c96-ecd6a8c3f51c")
+			(uuid "d0d8241a-d3d3-4e5d-a5c6-3dc07169ae12")
 		)
 		(fp_line
 			(start -1.9 -0.3)
@@ -5350,7 +5350,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "be8b2590-b6cb-45d3-9f02-edc9c112be3a")
+			(uuid "91d122d5-d62b-4869-a3d8-9bea0268c1dc")
 		)
 		(fp_line
 			(start -1.9 0.3)
@@ -5360,7 +5360,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "871ae059-02e1-458d-8559-32973c321897")
+			(uuid "a085de08-f8f5-436d-8c80-f466e2045e0d")
 		)
 		(fp_line
 			(start 1.9 -0.3)
@@ -5370,7 +5370,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "414ccb22-df11-42b9-8832-b7114193819f")
+			(uuid "77e69553-5480-47d9-8afd-55ff1df96cf2")
 		)
 		(fp_line
 			(start 1.9 0.3)
@@ -5380,7 +5380,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4a0fff1d-fd60-4f1e-b6e3-c960855b8390")
+			(uuid "480a95b1-9008-4432-9a77-3fc2a4674101")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.5 3.5 0)
@@ -5395,8 +5395,8 @@
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
-			(size 4.8 4.8)
-			(drill 2.8)
+			(size 5.2 5.2)
+			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(uuid "0c8bc0bd-5472-4b6f-80d6-041e9a617017")
@@ -5751,46 +5751,6 @@
 		)
 		(attr through_hole)
 		(fp_line
-			(start -19.05 9.525)
-			(end -19.05 -9.525)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "11a128c0-57eb-460c-b58c-4200ce386181")
-		)
-		(fp_line
-			(start 19.05 -9.525)
-			(end -19.05 -9.525)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "ca743e78-ff1a-454a-9346-63906c754f1c")
-		)
-		(fp_line
-			(start 19.05 9.525)
-			(end -19.05 9.525)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "0481470f-f5f2-4f5a-9c0b-c61baec309b6")
-		)
-		(fp_line
-			(start 19.05 9.525)
-			(end 19.05 -9.525)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "19dd1217-d004-47db-8a9c-67a9cb4127af")
-		)
-		(fp_line
 			(start -7 -7)
 			(end -7 -5)
 			(stroke
@@ -5798,7 +5758,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "7a02c226-a14e-45a0-aaed-ad9bc1b72d74")
+			(uuid "f0dd45c9-63d3-4317-b2bb-4668dff8c577")
 		)
 		(fp_line
 			(start -5 -7)
@@ -5808,7 +5768,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "780ba772-12f1-4220-9722-ed819c395b80")
+			(uuid "5c2c2c7b-85a3-4f93-9b4a-833f1b58edc2")
 		)
 		(fp_line
 			(start 5 -7)
@@ -5818,7 +5778,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "6a1ac496-f95d-460b-a3ab-f08cdd79a814")
+			(uuid "dd74c1d9-fde7-4960-9a30-fbcecf34f900")
 		)
 		(fp_line
 			(start 7 -7)
@@ -5828,7 +5788,17 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "831fba7f-3273-4133-80ce-edad5415b0fa")
+			(uuid "18c069d0-61c4-4227-8ac2-72cc649c2e82")
+		)
+		(fp_line
+			(start -19.05 9.525)
+			(end -19.05 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "6f6b6c64-3fa3-4c8a-9a27-bf1d9ec3c4c3")
 		)
 		(fp_line
 			(start -7 5)
@@ -5838,7 +5808,17 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "22c28d8a-e735-4a81-9e61-07cc5917188a")
+			(uuid "31936e9a-9098-4fed-9cd1-d17818dbcc24")
+		)
+		(fp_line
+			(start 19.05 -9.525)
+			(end -19.05 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "79d2df59-622d-4780-9212-cdbfa511c692")
 		)
 		(fp_line
 			(start -7 7)
@@ -5848,7 +5828,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "26d3db21-2ac5-4eef-9a4f-752caa21444a")
+			(uuid "f002e280-00f5-4b45-8994-e93fda2ae1b7")
 		)
 		(fp_line
 			(start 5 7)
@@ -5858,7 +5838,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "8ef55fda-9964-4956-971c-9876b57e92e3")
+			(uuid "9f75a13a-568b-4ecc-aa78-6b22cef09f8c")
 		)
 		(fp_line
 			(start 7 7)
@@ -5868,7 +5848,27 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "3a0f2448-e0dd-452c-979a-7ae6094d0ad1")
+			(uuid "4130b30b-b22b-461a-aa21-7bd200da0cb3")
+		)
+		(fp_line
+			(start 19.05 9.525)
+			(end -19.05 9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "abc635e5-315f-4aaf-b58a-91f621e9f519")
+		)
+		(fp_line
+			(start 19.05 9.525)
+			(end 19.05 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "4680dcea-6a9a-444d-bd74-0c97be6afe34")
 		)
 		(fp_poly
 			(pts
@@ -5880,14 +5880,14 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "8dc83aa5-4d32-41c6-898a-e75a23b94d90")
+			(uuid "bbbb67a9-dd3f-4f45-934d-54d805b46f0f")
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0 240)
 			(size 5.1 5.1)
 			(drill 5.1)
 			(layers "*.Cu" "*.Mask")
-			(uuid "4d192c6e-f333-4555-979e-678ac1bd809d")
+			(uuid "0d7b6e80-25a0-4d65-8b69-2a29f99f2e74")
 		)
 		(pad "1" thru_hole circle
 			(at -4.4 4.7 240)
@@ -5912,17 +5912,6 @@
 			(uuid "28edd2f5-9a4f-475a-94fa-6a983556b8dc")
 		)
 		(embedded_fonts no)
-		(model "/home/guy/Desktop/KiCad/libs/extra3D/KS-33 Low Profile 2.0  KS33-20230109（KS-33-Y31  3D图）.stp"
-			(offset
-				(xyz -60 0 -3.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
 	(footprint "LOGO"
 		(layer "F.Cu")
@@ -9058,6 +9047,155 @@
 			)
 		)
 	)
+	(footprint "TestPoint:TestPoint_Loop_D3.80mm_Drill2.8mm"
+		(layer "F.Cu")
+		(uuid "49814170-7308-46b3-a6d0-24f0dafdbc40")
+		(at 246.5 188.666667)
+		(descr "wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm")
+		(tags "test point wire loop bead")
+		(property "Reference" "H4"
+			(at 0.5 3.5 0)
+			(layer "F.SilkS")
+			(uuid "d5154c07-9c47-4acf-8fbf-1b0afa34b5c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 -3.5 0)
+			(layer "F.Fab")
+			(uuid "3939b93b-1cb5-4f3d-a354-b9f4af411ba5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59561bdd-9392-4838-ad2b-9db190fe8b8b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "95239663-0ed6-47ed-8acc-6219d94d6858")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.7 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "da58eed3-4e43-449a-8fd3-c69333ebeb93")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.9 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "94d2086d-413e-40f9-b089-34ff0240e9c8")
+		)
+		(fp_line
+			(start -1.9 -0.3)
+			(end -1.9 0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9a3db425-e5f5-4e2f-8b91-b71eb58f5336")
+		)
+		(fp_line
+			(start -1.9 0.3)
+			(end 1.9 0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "718dd9fe-99de-42fe-b166-ea5e2acea6a6")
+		)
+		(fp_line
+			(start 1.9 -0.3)
+			(end -1.9 -0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "05ae8faa-c687-4a37-8763-6b57c9b502ff")
+		)
+		(fp_line
+			(start 1.9 0.3)
+			(end 1.9 -0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "ae49c34a-9947-4629-b478-42323dd17ada")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0.5 3.5 0)
+			(layer "F.Fab")
+			(uuid "cf89b0cf-3a2d-4df5-9531-18de025e91bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 5.2 5.2)
+			(drill 3.2)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "be4c90ac-57ad-4fa6-932f-76f27e503de6")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D3.80mm_Drill2.8mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "52a3472a-d17f-4a88-9d7a-ea9ca693b9e1")
@@ -10068,6 +10206,155 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "TestPoint:TestPoint_Loop_D3.80mm_Drill2.8mm"
+		(layer "F.Cu")
+		(uuid "66d39d4c-ae7d-4327-85ca-348c2817c8ad")
+		(at 209.5 113.666667)
+		(descr "wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm")
+		(tags "test point wire loop bead")
+		(property "Reference" "H6"
+			(at 0.5 3.5 0)
+			(layer "F.SilkS")
+			(uuid "68e64643-6c13-4281-9ce4-0348a7224131")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 -4 0)
+			(layer "F.Fab")
+			(uuid "8d48e708-c3c6-4cf1-82ee-45d155bd7516")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26ad409e-c27a-4c8e-90a8-dfdaea8166d1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a449a17e-b197-4b8a-8fbb-bc8e05e9bd43")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.7 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "8ca096ad-bdf1-4fc4-b771-a952edb8eb4d")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.9 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "79ed0489-2817-46f9-8335-7fcb347320ad")
+		)
+		(fp_line
+			(start -1.9 -0.3)
+			(end -1.9 0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "2aca1a10-f42f-4077-a94b-2255968698c4")
+		)
+		(fp_line
+			(start -1.9 0.3)
+			(end 1.9 0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e7cb0066-cdb7-4baa-9575-c762c44b03fb")
+		)
+		(fp_line
+			(start 1.9 -0.3)
+			(end -1.9 -0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "dc05136b-0cbc-4b49-bce8-d7b56c6ab648")
+		)
+		(fp_line
+			(start 1.9 0.3)
+			(end 1.9 -0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "26212f3d-2940-40d2-96cd-348bd282e50c")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0.5 3.5 0)
+			(layer "F.Fab")
+			(uuid "4328a556-a8e0-4e02-8bbd-855ae848f8df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 5.2 5.2)
+			(drill 3.2)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "cafbc74f-4018-436e-b53e-33b3fd6dd7ea")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D3.80mm_Drill2.8mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11292,6 +11579,155 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "TestPoint:TestPoint_Loop_D3.80mm_Drill2.8mm"
+		(layer "F.Cu")
+		(uuid "7123d954-f706-4d06-9fc0-22ec5ce585c3")
+		(at 317.5 113.666667)
+		(descr "wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm")
+		(tags "test point wire loop bead")
+		(property "Reference" "H2"
+			(at 0.5 3.5 0)
+			(layer "F.SilkS")
+			(uuid "2d1fdc5d-d536-4b06-9c98-182cb8422918")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 -3.5 0)
+			(layer "F.Fab")
+			(uuid "4f7837db-e63a-4f2e-983b-334a7f495f27")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "30856b27-94bb-4496-83ac-f6103128b00e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a15d7f35-0b22-466b-9363-6b9c06c0684e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.7 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "e5d61427-7f6a-47f4-abed-8bc151348259")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.9 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "c5aebc04-b453-490f-aac4-b7b6dd2338f5")
+		)
+		(fp_line
+			(start -1.9 -0.3)
+			(end -1.9 0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "0d287395-c608-4c4c-94bc-3c38fd627132")
+		)
+		(fp_line
+			(start -1.9 0.3)
+			(end 1.9 0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "1a94a4b9-5aa0-4093-9033-bdb8b3984abd")
+		)
+		(fp_line
+			(start 1.9 -0.3)
+			(end -1.9 -0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b3607e22-4e85-417f-89e7-e3e4e5649195")
+		)
+		(fp_line
+			(start 1.9 0.3)
+			(end 1.9 -0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "cdd6dea5-9c22-4951-bce9-adcf0f22de29")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0.5 3.5 0)
+			(layer "F.Fab")
+			(uuid "40f36c1d-0be9-4cc6-9813-ea1fbb07a54c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 5.2 5.2)
+			(drill 3.2)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "03edd284-65e9-4e6f-b919-525c9e90e821")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D3.80mm_Drill2.8mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14584,7 +15020,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "446f9109-2c93-4104-9d07-60b1ff1fa710")
+			(uuid "f296fa81-4ef9-4259-895a-419c93e4ee12")
 		)
 		(fp_circle
 			(center 0 0)
@@ -14595,7 +15031,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "a7844154-c400-4e0b-8ff7-ba87017a5331")
+			(uuid "401ef58b-5c75-45de-88ce-e4e964b176f6")
 		)
 		(fp_line
 			(start -1.9 -0.3)
@@ -14605,7 +15041,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "9ab98a0d-8140-4121-883f-c69dab48f0c7")
+			(uuid "fca3dc39-ecf5-4921-b197-3f7c339dd216")
 		)
 		(fp_line
 			(start -1.9 0.3)
@@ -14615,7 +15051,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "da383ae4-350f-4c9a-aec1-af39954bc6b3")
+			(uuid "c48d8ebc-7873-48d4-b109-44c116e5813e")
 		)
 		(fp_line
 			(start 1.9 -0.3)
@@ -14625,7 +15061,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "96005cc8-f2fd-4dc8-b09a-26652939dfa1")
+			(uuid "df687961-f100-4d2d-8026-4c7d6a8c1ad4")
 		)
 		(fp_line
 			(start 1.9 0.3)
@@ -14635,7 +15071,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4e09d66d-0d14-43f9-ab17-096ef95676eb")
+			(uuid "0a2d3ae9-b67b-4ce9-94e7-358aeb58886f")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.5 3.5 0)
@@ -14650,8 +15086,8 @@
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
-			(size 4.8 4.8)
-			(drill 2.8)
+			(size 5.2 5.2)
+			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(uuid "d6babbb2-ad32-43ed-ae4c-3999ae090fdd")
@@ -18787,6 +19223,155 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "TestPoint:TestPoint_Loop_D3.80mm_Drill2.8mm"
+		(layer "F.Cu")
+		(uuid "c1ad441d-2806-4b0a-8723-c23477ef3266")
+		(at 333.5 153.666667)
+		(descr "wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm")
+		(tags "test point wire loop bead")
+		(property "Reference" "H8"
+			(at 0.5 3.5 0)
+			(layer "F.SilkS")
+			(uuid "981b1fd4-7c34-4269-a4c7-3c3c02fae721")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 -3.5 0)
+			(layer "F.Fab")
+			(uuid "429a1fea-76cc-440e-87ad-9d61c2c24998")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "80a1acf2-93bb-4e75-8842-afe698a5e6a2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c893918e-6742-4d42-bc66-95c6b785a9f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.7 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "47ab3d30-64e4-46d5-bb80-b78c3e19c1f2")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.9 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "179fa884-c5a4-4080-9226-208ad4cee02b")
+		)
+		(fp_line
+			(start -1.9 -0.3)
+			(end -1.9 0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "1714a909-cc89-4864-87ba-1304de996aab")
+		)
+		(fp_line
+			(start -1.9 0.3)
+			(end 1.9 0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "184de3be-e4ea-4603-89df-69d8cf84e782")
+		)
+		(fp_line
+			(start 1.9 -0.3)
+			(end -1.9 -0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "5455fc31-f8c5-4a4a-a5e3-5b6d5e1e296a")
+		)
+		(fp_line
+			(start 1.9 0.3)
+			(end 1.9 -0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "5cc144dc-dde5-45e2-9230-f5272f40f2d4")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0.5 3.5 0)
+			(layer "F.Fab")
+			(uuid "aefc6be4-3ab1-4cf2-93f9-274aaf8d2f43")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 5.2 5.2)
+			(drill 3.2)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "808299e6-83b6-4f50-9ada-16d6008d9c7b")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D3.80mm_Drill2.8mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24640,7 +25225,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "c31e2f9f-de81-42e8-82b7-ac1153946d50")
+			(uuid "82676253-8e7d-4d62-b8f2-bc4516eca7f6")
 		)
 		(fp_circle
 			(center 0 0)
@@ -24651,7 +25236,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "4596287f-b77f-496e-aa91-1b39d4251a18")
+			(uuid "0700e1f2-0a1e-472e-af55-8dbb469ba13d")
 		)
 		(fp_line
 			(start -1.9 -0.3)
@@ -24661,7 +25246,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d9248d37-232d-40cb-aba2-e2ffd5d4624d")
+			(uuid "0061b772-0cd5-4049-88af-d66c8e61af11")
 		)
 		(fp_line
 			(start -1.9 0.3)
@@ -24671,7 +25256,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c7465d42-f528-4a88-b23f-3652afa7c98d")
+			(uuid "6e1fc10d-5650-4216-acb0-df449dac56f6")
 		)
 		(fp_line
 			(start 1.9 -0.3)
@@ -24681,7 +25266,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "771d5b81-73f5-419d-b213-a5161704a739")
+			(uuid "16c9c0fb-46e9-407e-893b-9c0ae75eefd3")
 		)
 		(fp_line
 			(start 1.9 0.3)
@@ -24691,7 +25276,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "25d2ccd2-de2e-4a0d-a52f-2e4e1e6e2fd9")
+			(uuid "5372d25f-a8c4-4af9-b321-e21489f223ff")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.5 3.5 0)
@@ -24706,8 +25291,8 @@
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
-			(size 4.8 4.8)
-			(drill 2.8)
+			(size 5.2 5.2)
+			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(uuid "0db86638-35f6-449c-b0fd-019833a5d241")
@@ -25067,38 +25652,8 @@
 				(width 0.15)
 				(type solid)
 			)
-			(layer "F.SilkS")
-			(uuid "9a00eb07-9287-46c3-a591-b944323cc2cb")
-		)
-		(fp_line
-			(start 19.05 9.525)
-			(end -19.05 9.525)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "decb0a24-2265-420f-9121-c553b37693e6")
-		)
-		(fp_line
-			(start 19.05 9.525)
-			(end 19.05 -9.525)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "0820f5e0-8496-4ee9-8079-89c5228590f5")
-		)
-		(fp_line
-			(start 19.05 -9.525)
-			(end -19.05 -9.525)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "6730e5c8-ed73-4442-af11-b7b55a2fde46")
+			(layer "Dwgs.User")
+			(uuid "3932a5a9-5ef2-4d94-bac1-719ed8a39a6a")
 		)
 		(fp_line
 			(start -7 7)
@@ -25108,7 +25663,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "224fac57-ac0b-4ea6-b2d5-13d035abba58")
+			(uuid "a5a9848e-51b9-4924-b554-bb2f400abee3")
 		)
 		(fp_line
 			(start -7 5)
@@ -25118,7 +25673,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "67faba15-0bf4-4012-9ef6-b0bd2fc7234f")
+			(uuid "5e7dbd92-04c0-4688-9447-bc406354b219")
 		)
 		(fp_line
 			(start 5 7)
@@ -25128,7 +25683,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "38510928-43a8-4bc5-a821-474140064efc")
+			(uuid "4a7b82de-0760-4fc8-9c26-0a2ca95cd15f")
 		)
 		(fp_line
 			(start 7 7)
@@ -25138,7 +25693,27 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "7261eab5-cae6-4964-977f-761ad7308854")
+			(uuid "43845310-bc4b-4e2a-9dfc-5884a45d72ea")
+		)
+		(fp_line
+			(start 19.05 9.525)
+			(end -19.05 9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "935f60f0-e383-435d-a3ed-84fb3f6bdec6")
+		)
+		(fp_line
+			(start 19.05 9.525)
+			(end 19.05 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "37c597f1-dae2-4276-89a3-86503099f5cd")
 		)
 		(fp_line
 			(start -7 -7)
@@ -25148,7 +25723,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "a2f3969c-af9a-4220-85e3-e3ad9d814dbe")
+			(uuid "8f4fef65-31f5-407e-9d19-b04453d78058")
 		)
 		(fp_line
 			(start -5 -7)
@@ -25158,7 +25733,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "f7e88a67-f74f-4e3c-8fda-2d3fe91311b1")
+			(uuid "1df0c168-f1c2-40b9-ab02-d21470903262")
 		)
 		(fp_line
 			(start 5 -7)
@@ -25168,7 +25743,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "53d9346d-790d-4c90-befc-98ba99c36d19")
+			(uuid "393865e6-71f2-492d-a831-a5b772f1b426")
 		)
 		(fp_line
 			(start 7 -7)
@@ -25178,7 +25753,17 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "270d6c22-05e4-4f2a-99a6-6af5796150e2")
+			(uuid "aac06568-ad11-46b4-8cb0-cceb26c7a2c9")
+		)
+		(fp_line
+			(start 19.05 -9.525)
+			(end -19.05 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "d88359bb-43c8-4bc8-ac5a-928186ea28bf")
 		)
 		(fp_poly
 			(pts
@@ -25190,14 +25775,14 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "6c710d95-c286-43b7-a543-45175bafe9c2")
+			(uuid "d1f620c2-1472-4523-b713-3ad8958a86b6")
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0 120)
 			(size 5.1 5.1)
 			(drill 5.1)
 			(layers "*.Cu" "*.Mask")
-			(uuid "b944091b-34fe-49a1-8ae9-a1e9f2f6e098")
+			(uuid "38f13b62-3d79-408e-a2a5-db71c7743fbf")
 		)
 		(pad "1" thru_hole circle
 			(at -4.4 4.7 120)
@@ -26419,160 +27004,6 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_Loop_D3.80mm_Drill2.8mm"
-		(layer "B.Cu")
-		(uuid "49814170-7308-46b3-a6d0-24f0dafdbc40")
-		(at 246.5 188.666667 180)
-		(descr "wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm")
-		(tags "test point wire loop bead")
-		(property "Reference" "H4"
-			(at 0.5 -3.5 0)
-			(layer "B.SilkS")
-			(uuid "d5154c07-9c47-4acf-8fbf-1b0afa34b5c4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 0 3.5 0)
-			(layer "B.Fab")
-			(uuid "3939b93b-1cb5-4f3d-a354-b9f4af411ba5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "59561bdd-9392-4838-ad2b-9db190fe8b8b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "95239663-0ed6-47ed-8acc-6219d94d6858")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(attr through_hole exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 2.7 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.SilkS")
-			(uuid "c14ad0ec-90bf-48bf-bb93-f500bac66e9f")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.9 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.CrtYd")
-			(uuid "abc415af-0027-4dd0-a271-d76a34d23050")
-		)
-		(fp_line
-			(start 1.9 0.3)
-			(end -1.9 0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "21114292-5444-4c2c-8a22-09ec2a91d312")
-		)
-		(fp_line
-			(start 1.9 -0.3)
-			(end 1.9 0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "f62240c6-769c-4cbb-822c-f700bbf1a208")
-		)
-		(fp_line
-			(start -1.9 0.3)
-			(end -1.9 -0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "e55596b7-f95b-4dc6-bdf9-cf73478cec5c")
-		)
-		(fp_line
-			(start -1.9 -0.3)
-			(end 1.9 -0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "8735d8e1-df60-4608-b2b4-d94d4b0bd216")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0.5 -3.5 0)
-			(layer "B.Fab")
-			(uuid "cf89b0cf-3a2d-4df5-9531-18de025e91bc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at 0 0 180)
-			(size 4.8 4.8)
-			(drill 2.8)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(uuid "be4c90ac-57ad-4fa6-932f-76f27e503de6")
-		)
-		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D3.80mm_Drill2.8mm.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "TestPoint:TestPoint_Pad_D2.0mm"
 		(layer "B.Cu")
 		(uuid "600b6ec6-fb56-42ae-92f8-70c8c69b8749")
@@ -26785,160 +27216,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "TestPoint:TestPoint_Loop_D3.80mm_Drill2.8mm"
-		(layer "B.Cu")
-		(uuid "66d39d4c-ae7d-4327-85ca-348c2817c8ad")
-		(at 209.5 113.666667 180)
-		(descr "wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm")
-		(tags "test point wire loop bead")
-		(property "Reference" "H6"
-			(at 0.5 -3.5 0)
-			(layer "B.SilkS")
-			(uuid "68e64643-6c13-4281-9ce4-0348a7224131")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 0 4 0)
-			(layer "B.Fab")
-			(uuid "8d48e708-c3c6-4cf1-82ee-45d155bd7516")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "26ad409e-c27a-4c8e-90a8-dfdaea8166d1")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "a449a17e-b197-4b8a-8fbb-bc8e05e9bd43")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(attr through_hole exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 2.7 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.SilkS")
-			(uuid "58f14368-f28a-4364-b4e8-2454abb905b3")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.9 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.CrtYd")
-			(uuid "19287e30-60c6-4a20-b20b-8755a67f4241")
-		)
-		(fp_line
-			(start 1.9 0.3)
-			(end -1.9 0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "4b3ece89-0949-4941-840d-708e9edddcac")
-		)
-		(fp_line
-			(start 1.9 -0.3)
-			(end 1.9 0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "1d18c093-7f8c-4c58-b750-129d4ca74157")
-		)
-		(fp_line
-			(start -1.9 0.3)
-			(end -1.9 -0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "8a7aec00-5f31-4d82-ace5-c9ec3411d96f")
-		)
-		(fp_line
-			(start -1.9 -0.3)
-			(end 1.9 -0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "90608aeb-68d4-4b4d-a9cc-196313e1b392")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0.5 -3.5 0)
-			(layer "B.Fab")
-			(uuid "4328a556-a8e0-4e02-8bbd-855ae848f8df")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at 0 0 180)
-			(size 4.8 4.8)
-			(drill 2.8)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(uuid "cafbc74f-4018-436e-b53e-33b3fd6dd7ea")
-		)
-		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D3.80mm_Drill2.8mm.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "TestPoint:TestPoint_Pad_D2.0mm"
 		(layer "B.Cu")
 		(uuid "6da4e9fa-24d3-4dda-86ba-a0a1a4fc8cf1")
@@ -27042,160 +27319,6 @@
 			(uuid "d81d3eb8-34c1-412b-8a74-238cfec624d5")
 		)
 		(embedded_fonts no)
-	)
-	(footprint "TestPoint:TestPoint_Loop_D3.80mm_Drill2.8mm"
-		(layer "B.Cu")
-		(uuid "7123d954-f706-4d06-9fc0-22ec5ce585c3")
-		(at 317.5 113.666667 180)
-		(descr "wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm")
-		(tags "test point wire loop bead")
-		(property "Reference" "H2"
-			(at 0.5 -3.5 0)
-			(layer "B.SilkS")
-			(uuid "2d1fdc5d-d536-4b06-9c98-182cb8422918")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 0 3.5 0)
-			(layer "B.Fab")
-			(uuid "4f7837db-e63a-4f2e-983b-334a7f495f27")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "30856b27-94bb-4496-83ac-f6103128b00e")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "a15d7f35-0b22-466b-9363-6b9c06c0684e")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(attr through_hole exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 2.7 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.SilkS")
-			(uuid "a1a0cc06-5a7c-4036-a9c0-0eeb78616d75")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.9 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.CrtYd")
-			(uuid "5220309d-4e2b-4dd1-9442-5fd041589a3c")
-		)
-		(fp_line
-			(start 1.9 0.3)
-			(end -1.9 0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "2120a200-1a97-456d-8604-f49b37f8f9ba")
-		)
-		(fp_line
-			(start 1.9 -0.3)
-			(end 1.9 0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "aa99b165-79bc-4779-b3a2-d397c914e188")
-		)
-		(fp_line
-			(start -1.9 0.3)
-			(end -1.9 -0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "4595b9e3-6e08-4e39-99bf-e0a6f8a13384")
-		)
-		(fp_line
-			(start -1.9 -0.3)
-			(end 1.9 -0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "f6860098-9a6f-47c0-8413-4ac12fa03d1c")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0.5 -3.5 0)
-			(layer "B.Fab")
-			(uuid "40f36c1d-0be9-4cc6-9813-ea1fbb07a54c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at 0 0 180)
-			(size 4.8 4.8)
-			(drill 2.8)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(uuid "03edd284-65e9-4e6f-b919-525c9e90e821")
-		)
-		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D3.80mm_Drill2.8mm.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 		(layer "B.Cu")
@@ -27390,160 +27513,6 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
-	(footprint "TestPoint:TestPoint_Loop_D3.80mm_Drill2.8mm"
-		(layer "B.Cu")
-		(uuid "c1ad441d-2806-4b0a-8723-c23477ef3266")
-		(at 333.5 153.666667 180)
-		(descr "wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm")
-		(tags "test point wire loop bead")
-		(property "Reference" "H8"
-			(at 0.5 -3.5 0)
-			(layer "B.SilkS")
-			(uuid "981b1fd4-7c34-4269-a4c7-3c3c02fae721")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 0 3.5 0)
-			(layer "B.Fab")
-			(uuid "429a1fea-76cc-440e-87ad-9d61c2c24998")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "80a1acf2-93bb-4e75-8842-afe698a5e6a2")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "c893918e-6742-4d42-bc66-95c6b785a9f5")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(attr through_hole exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 2.7 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.SilkS")
-			(uuid "65754ea9-8c37-4986-831f-c260e517bbf6")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.9 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.CrtYd")
-			(uuid "9bec3df4-9ea8-4055-9eb8-45171031e523")
-		)
-		(fp_line
-			(start 1.9 0.3)
-			(end -1.9 0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "530a508e-fa2e-4647-acc4-83583d5de981")
-		)
-		(fp_line
-			(start 1.9 -0.3)
-			(end 1.9 0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "25cb97c7-e9d6-4044-96c7-b3531b5f83c4")
-		)
-		(fp_line
-			(start -1.9 0.3)
-			(end -1.9 -0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "cfd4de9d-1094-4778-89ab-23be9436559d")
-		)
-		(fp_line
-			(start -1.9 -0.3)
-			(end 1.9 -0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "fa358701-31da-4264-a77b-fce530e4ab42")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0.5 -3.5 0)
-			(layer "B.Fab")
-			(uuid "aefc6be4-3ab1-4cf2-93f9-274aaf8d2f43")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at 0 0 180)
-			(size 4.8 4.8)
-			(drill 2.8)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(uuid "808299e6-83b6-4f50-9ada-16d6008d9c7b")
-		)
-		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D3.80mm_Drill2.8mm.step"
 			(offset
 				(xyz 0 0 0)
 			)

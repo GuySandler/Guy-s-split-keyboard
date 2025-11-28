@@ -6,7 +6,7 @@ My first project I am making on my own. A basic wireless split keyboard
 
 | Amount          | Name                                     | Source                                                                                                                                      | Price |
 |-----------------|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|-------|
-| 2               | XIAO-nRF52840                            | [seeedstudio](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html)                                                              | 17.98 |
+| 2               | XIAO-nRF52840                            | [aliexpress](https://www.aliexpress.us/item/3256806802639384.html) not including $7.72 shipping                                             | 17.98 |
 | 42 (min 50)     | Gateron Low Profile Switch 2.0           | [aliexpress](https://www.aliexpress.us/item/3256806684099095.html)                                                                          | 16.79 |
 | 2               | 103450 3.7V 2000mAh Polymer Lithium      | [aliexpress](https://www.aliexpress.us/item/3256809404408618.html)                                                                          | 9.65  |
 | 42 (min 50)     | IN4148 DO-35 High-Speed Switching Diodes | [aliexpress](https://www.aliexpress.us/item/3256809192784213.html) (buying 100 is .48 more than buying 50)                                  | 1.95  |
@@ -26,8 +26,7 @@ My first project I am making on my own. A basic wireless split keyboard
 | JLC Cart        | <img src=imgs/jlccart.png width="500">           |
 | JLC + Shipping  | <img src=imgs/jlcfinal.png width="500">          |
 | Aliexpress Cart | <img src=imgs/aliexpresscart.png width="500">    |
-| Seeed Cart      | <img src=imgs/seeedcart.png width="500">         |
 
 # Total Price (without 3d printed parts)
-## $82.01
-- 28.09 JLC + 25.53 Aliexpress + 28.39 Seeed Studio
+## $75.29
+- 28.09 JLC + 47.2 Aliexpress
